@@ -52,7 +52,7 @@ This repository contains all the projects I have built using Flutter.
 
 - <h2>Flash Chat</h2>
 
-<p>The Flash Chat app is a simple chat app that uses Firebase to store the messages with user log in and registration.</p>
+<p>The Flash Chat app is a simple chat app that uses Firebase to store messages with user login and registration.</p>
 
 <img src="./images/Flash Chat.png" width="500" />
 
@@ -62,10 +62,10 @@ This repository contains all the projects I have built using Flutter.
 
 <img src="./images/To Do.png" width="500" />
 
-<a href="https://github.com/Abdelrahmanhassan1/todoey" target="_blank"><h4> -> Github Repo</h4></a>
+<a href="https://github.com/Abdelrahmanhassan1/todoey" target="_blank">Repo Here</a>
 
 - <h2>Home Coach</h2>
 
 <img src="./images/Home Coach.png" width="500" />
 
-<a href="https://github.com/Abdelrahmanhassan1/home_coach" target="_blank"><h4> -> Github Repo</h4></a>
+<a href="https://github.com/Abdelrahmanhassan1/home_coach" target="_blank">Repo Here</a>
